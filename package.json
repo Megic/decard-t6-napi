@@ -1,6 +1,6 @@
 {
   "name": "decardt6-napi",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Driver for decard-t6",
   "main": "index.js",
   "scripts": {
